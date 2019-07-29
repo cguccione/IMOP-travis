@@ -1,4 +1,4 @@
-language: r
+language: r 
 dist: xenial
 latex: false
 branches:
